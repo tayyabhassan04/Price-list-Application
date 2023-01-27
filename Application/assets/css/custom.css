@@ -1,0 +1,39 @@
+.bg-custom{
+    background-color:#FFFDE8;
+}
+label.form-check-label {
+    margin-left: 10px;
+}
+input#flexCheckChecked {
+    width: 25px;
+    height: 25px;
+}
+.center-align-checkbox{
+    display: flex;
+    align-items: center;
+}
+.control-row-height{
+min-height: 50px;
+flex-wrap: nowrap;
+overflow-x: auto;
+}
+label.form-check-label {
+    font-size: 12px;
+}
+.separator-row{
+    height: 50px;
+    background-color: #5A80FB;
+}
+.vertically-align{
+writing-mode: vertical-rl;
+text-orientation: mixed;
+}
+img.img-size {
+    width: 30px;
+}
+
+tr, td {
+    text-align: center;
+}
+
+
